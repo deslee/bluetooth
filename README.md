@@ -37,7 +37,7 @@ Features
 * Find Me example is [here](https://github.com/bcsphere/apps/tree/master/findme), it shows how to use the profiles.
 
 #### Universal Bluetooth Serial Port 
-* Cross-platform implementation of Bluetooth serial port, covering the IOS/Android platform difference when using the [serial port profile](https://https://github.com/bcsphere/bluetooth/blob/master/www/org.bluetooth.profile/serial_port.js).
+* Cross-platform implementation of Bluetooth serial port, covering the IOS/Android platform difference when using the [serial port profile](https://github.com/bcsphere/bluetooth/blob/master/www/org.bluetooth.profile/serial_port.js).
 * Automatic Bluetooth 4.0/2.1 routing to establish appropriate connection, considering both phones and peripheral devices modes.
 
 #### Reuse rich Apache Cordova/PhoneGap Ecosystem
